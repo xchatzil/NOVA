@@ -3,7 +3,7 @@ Code for **Nova: Operator Placement for Parallel Stream Join Processing in Heter
 
 The repository contains two projects:
 1. notebooks: Jupyter notebooks of the local experiments and plots of all evaluation results
-2. nebulastream: A fork of the NebulaStream master with the NOVA integration
+2. nebulastream: A fork of NebulaStream with the NOVA integration
 
 ## Python Ιncludes 
 - Python implementations of the following approaches:
