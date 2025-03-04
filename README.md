@@ -23,9 +23,6 @@ The repository contains two projects:
     - Example: Contain the plots for the example in the paper
     - Heatmaps: Contain heatmaps about latency statistics of the implemented approach for the tested topologies
     - ScalabilityTestsJoin: Contain the scalability experiments and plots
- 
-## Python Dependencies 
-All required dependencies are specified in notebooks/requirements.txt
 
 ## Datasets
 All datasets of the topologies and results of our experiments can be found in notebooks/datasets
@@ -33,6 +30,6 @@ All datasets of the topologies and results of our experiments can be found in no
 ## NebulaStream
 NOVA is currently part of the master branch of NebulaStream: https://nebula.stream/
 
-We provide in this repository a fork of NebulaStream with our integration of NOVA. A locally runnable Integration test can be found in nebulastream/nes-coordinator/tests/E2e/E2ENemoJoinTest.cpp
+We provide in this repository a fork of NebulaStream with our integration of NOVA. A locally runnable test can be found in nebulastream/nes-coordinator/tests/E2e/E2ENemoJoinTest.cpp
 
 For a detailed guide how to run and deploy NebulaStream, we refer to: https://docs.nebula.stream/
